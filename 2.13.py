@@ -1,3 +1,5 @@
+!pip install scikit-fuzzy
+
 import skfuzzy as fuzz
 from skfuzzy import control as ctrl
 import numpy as np
